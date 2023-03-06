@@ -1,4 +1,7 @@
-# Data analysis
+# Food recipe recognition
+    The goal of this project is to get nutrional information from a single picture of a dishe.
+We usualy forget 1/3 of everything we're eating. If we want to log our food, for a better health, for a sporting event, or for a specific diet, the task can be very tidious, we need to scale everything, scan the bar code to have the nutrition information or putting it by hand. The idea here is to make the task easier and getting all information simply by taking one picture.
+
 - Document here the project: foodE
 - Description: Project Description
 - Data Source:
